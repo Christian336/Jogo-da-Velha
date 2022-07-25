@@ -258,9 +258,9 @@ int main(void) {
           continue;
         }
 
-        if (o == 1) {
+        if (o == 11) {
 
-          if (a1 == 11) {
+          if (a1 == 1) {
             printf("Casa inválida! Selecione uma das casas disponíveis:\n");
             continue;
           } else {
